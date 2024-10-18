@@ -1,7 +1,7 @@
 FROM crapware/sbcl as build
-LABEL "version"="2.5.10"
+LABEL "version"="2.5.12"
 
-ENV OCICL_VERSION 2.5.10
+ENV OCICL_VERSION 2.5.12
 
 RUN apt update && apt install -y \
     ca-certificates \
