@@ -1,6 +1,6 @@
 # docker-sbcl-ocicl 
 
-Running ocicl in docker wih SBCL
+Running ocicl in docker with SBCL
 
 - SBCL: http://www.sbcl.org
 - OCICL: https://github.com/ocicl/ocicl
